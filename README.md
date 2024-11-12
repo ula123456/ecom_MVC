@@ -1,5 +1,13 @@
 # e-com
- MVC
+# e- comerce  Theme on PHP by using MCV pattern
+This is a e - comerce Theme Website Template, designed using html and css. It was developed while learning MVC technology .
+
+## Technologies Used
+1. HTML5
+2. CSS3
+3. MVC
+
+ 
 echo "# ecom_MVC" >> README.md
 git init
 git add .
